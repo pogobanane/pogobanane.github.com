@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Peter Okelmann
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Peter
+last_name: Okelmann
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐧
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,102 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Systems Research Group at TU Munich
+    url: https://dos.cit.tum.de
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:okelmann@cit.tum.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/pogobanane
+  - icon: brands/x
+    url: https://twitter.com/peterokelmann
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.de/citations?user=LAeelzkAAAAJ&hl=de&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-6728-1335
+  - icon: academicons/dblp
+    url: https://dblp.org/pid/298/4088.html
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Virtual machines (e.g. KVM)
+  - Networking
+  - Containerization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: Dr. rer. nat. Informatics (ongoing, PhD)
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-12-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    # summary: |
+    #   Thesis: Building lightweight VMs for Function as a Service
+  - area: MSc Informatics
+    institution: Technical University Munich
+    date_start: 2020-03-15
+    date_end: 2022-03-15
+    summary: |
+      Thesis: Building lightweight VMs for Function as a Service
+
+      Artifact: Container-like debuggability for minimal lambda-function VMs [λ🏴‍☠️ lambda-pirate](https://github.com/pogobanane/lambda-pirate) (see also [Vmsh [EuroSys'22]](/#papers))
+    #   GPA: 3.8/4.0
+
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Informatics
+    institution: Technical University Munich
+    date_start: 2015-10-15
+    date_end: 2020-03-15
+    summary: |
+      Thesis: Performance analysis of the VPP software router
+
+      Artifact: [Adaptive batching [NetSoft'21]](/#papers)
+    #   GPA: 3.4/4.0
+    #
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Student Assistant (HiWi)
+    company_name: Technical University Munich
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-09-01
+    date_end: 2021-10-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Contribute to [Vmsh [EuroSys'22]](/#papers)
+      - Virtual device development for KVM
+  - position: Full stack developer and consultant
+    company_name: Moonlight GmbH & Co. KG
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-11-01
+    date_end: 2021-01-15
+    summary: |
+      - Developing web-based digital signage
+      - IT consulting
+  - position: Embedded Software Developer
+    company_name: iKudrus GmbH
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-10-01
+    date_end: 2020-11-30
+    summary: |
+      - Arduino development
+      - Measuring drift and jitter of mechanical clocks with microsecond-accuracy
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
