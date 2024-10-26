@@ -1,7 +1,7 @@
 ---
 title: Vmsh
 
-event: EuroSys'22
+event: IBM Watson Research Ctr (invited talk)
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ
@@ -17,8 +17,8 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2030-06-01T13:00:00Z' # TODO
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
