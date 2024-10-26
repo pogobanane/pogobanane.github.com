@@ -193,4 +193,5 @@ languages:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Peter Okelmann is a PhD candidate at [dos.cit.tum.de](https://dos.cit.tum.de).
+His research interests include virtualization with containers or virtual machines, and often their intersection with networking.
