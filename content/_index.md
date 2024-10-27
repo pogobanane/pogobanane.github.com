@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a researcher at TUM interested in virtualized systems and networking.
+        I do research around virtualized systems and networking.
         Motivated by my work on server management/DevOps/NixOS i enjoy building tools for containers and improve VMs.
 
         My research focuses on the intersection of VMs and networking, codesigning VM networking, drivers, and emulators.

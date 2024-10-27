@@ -27,8 +27,8 @@ doi: '10.1145/3492321.3519589'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *NetSoft'21, 7th IEEE International Conference on Network Softwarization*
-publication_short: In *NetSoft'21*
+publication: In *EuroSys'22 Seventeenth European Conference on Computer Systems*
+publication_short: In *EuroSys'22*
 
 abstract: |
   Processing packets in batches is a common technique in high-speed software routers to improve routing efficiency and increase throughput.

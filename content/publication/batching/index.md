@@ -28,8 +28,8 @@ doi: '10.1109/NETSOFT51509.2021.9492668'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *EuroSys'22 Seventeenth European Conference on Computer Systems*
-publication_short: In *EuroSys'22*
+publication: In *NetSoft'21, 7th IEEE International Conference on Network Softwarization*
+publication_short: In *NetSoft'21*
 
 abstract: |
   Lightweight virtual machines (VMs) are prominently adopted for improved performance and dependability in cloud environments. To reduce boot up times and resource utilisation, they are usually \"pre-baked\" with only the minimal kernel and userland strictly required to run an application.
@@ -51,12 +51,12 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'vmsh.pdf'
-url_code: 'https://github.com/mic92/vmsh'
+url_pdf: 'batching.pdf'
+url_code: 'https://github.com/pogobanane/vpp-testing'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
-url_slides: 'slides.pdf'
+# url_slides: 'slides.pdf'
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_video: 'https://youtube.com'
 

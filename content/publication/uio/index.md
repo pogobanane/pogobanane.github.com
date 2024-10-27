@@ -15,8 +15,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-04-13T00:00:00Z'
-doi: '10.1145/3492321.3519589'
+date: '2024-10-21T00:00:00Z'
+doi: '10.1145/3698038.3698518'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -27,8 +27,8 @@ doi: '10.1145/3492321.3519589'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *NetSoft'21, 7th IEEE International Conference on Network Softwarization*
-publication_short: In *NetSoft'21*
+publication: In *SoCC'25, ACM Symposium on Cloud Computing*
+publication_short: In *SoCC'25*
 
 abstract: |
   Unikernels specialize operating systems by tailoring the kernel for a specific application at compile time.
@@ -57,11 +57,11 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'batching.pdf'
-url_code: 'https://github.com/pogobanane/vpp-testing'
+url_code: 'https://github.com/tum-DSE/uio'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
-url_slides: 'slides.pdf'
+# url_slides: 'slides.pdf'
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_video: 'https://youtube.com'
 

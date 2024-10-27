@@ -1,8 +1,8 @@
 ---
 title: "VMSH: Hypervisor-agnostic Guest Overlays for VMs"
 
-event: IBM Watson Research Ctr (invited talk)
-event_url: https://example.org
+event: Invited Talk at IBM Watson Research Center
+# event_url: https://example.org
 
 # location: Hugo Blox Builder HQ
 # address:
@@ -19,7 +19,7 @@ abstract: ''
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-06-14T13:00:00Z' # TODO
 # date_end: '2030-06-01T15:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'

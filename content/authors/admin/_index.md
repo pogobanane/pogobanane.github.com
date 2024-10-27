@@ -141,7 +141,7 @@ skills:
         description: ''
         percent: 99
         icon: code-bracket
-      - name: DevOps
+      - name: NixOS (DevOps)
         description: ''
         percent: 99
         icon: code-bracket

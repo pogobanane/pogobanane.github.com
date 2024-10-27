@@ -1,7 +1,7 @@
 ---
 title: "VMSH: Hypervisor-agnostic Guest Overlays for VMs"
 
-# event: Intel Labs - Datacenter Security Group,
+event: Invited Talk at Intel Labs - Datacenter Security Group
 # event_url: https://example.org
 
 # location: Hugo Blox Builder HQ
@@ -19,7 +19,7 @@ abstract: ''
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-05-09T13:00:00Z' # TODO
 # date_end: '2030-06-01T15:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
