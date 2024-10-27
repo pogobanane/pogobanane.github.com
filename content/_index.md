@@ -66,7 +66,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
@@ -107,6 +107,14 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
+  # - block: markdown
+  #   id: teaching
+  #   content:
+  #     title: Teaching
+  #     text: |
+  #       - WS
+  #         - foo
+  #         - bar
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
