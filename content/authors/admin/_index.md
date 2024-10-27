@@ -91,6 +91,15 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Research Staff
+    company_name: Technical University Munich
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-03-01
+    date_end: ''
+    # summary: |
+    #   - Contributing to [Vmsh [EuroSys'22]](/#papers)
+    #   - Virtual device development for KVM
   - position: Student Assistant (HiWi)
     company_name: Technical University Munich
     company_url: ''
