@@ -19,7 +19,7 @@ date: '2022-04-13T00:00:00Z'
 doi: '10.1145/3492321.3519589'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,13 +27,17 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *EuroSys'22 Seventeenth European Conference on Computer Systems*
-publication_short: In *EuroSys'22*
+publication: In *NetSoft'21, 7th IEEE International Conference on Network Softwarization*
+publication_short: In *NetSoft'21*
 
 abstract: |
-  Lightweight virtual machines (VMs) are prominently adopted for improved performance and dependability in cloud environments. To reduce boot up times and resource utilisation, they are usually \"pre-baked\" with only the minimal kernel and userland strictly required to run an application.
-  This introduces a fundamental trade-off between the advantages of lightweight VMs and available services within a VM, usually leaning towards the former. We propose VMSH, a hypervisor-agnostic abstraction that enables on-demand attachment of services to a running VM -- allowing developers to provide minimal, lightweight images without compromising their functionality.
-  The additional applications are made available to the guest via a file system image. To ensure that the newly added services do not affect the original applications in the VM, VMSH uses lightweight isolation mechanisms based on containers. We evaluate VMSH on multiple KVM-based hypervisors and Linux LTS kernels and show that. (i) VMSH adds no overhead for the applications running in the VM, (ii) de-bloating images from the Docker registry can save up to 60% of their size on average, and (iii) VMSH enables cloud providers to offer services to customers, such as recovery shells, without interfering with their VM's execution.
+  Processing packets in batches is a common technique in high-speed software routers to improve routing efficiency and increase throughput.
+  With the growing popularity of novel paradigms such as Network Function Virtualization, advocating for the replacement of hardware-based networking modules towards software-based network functions deployed on commodity servers, we observe that batching techniques have been successfully implemented to reduce the HW/SW performance gap.
+  As batch creation and management is at the very core of high-speed packet processors, it provides a significant impact to the overall packet processing capabilities of the system, affecting latency, throughput, CPU utilization and power consumption.
+  It is commonly accepted to adopt a fixed maximum batching size (usually in the range between 32 and 512) to optimize for the worst case scenario (i.e. minimum-size packets at full bandwidth capacity).
+  Such approach may result in a loss of efficiency despite a 100% utilization of the CPU.
+  In this work we explore the possibilities of enhancing the runtime batch creation in VPP, a popular software router based on the Intel DPDK framework.
+  Instead of relying on the automatic batch creation, we apply machine learning techniques to optimize the batching size for lower CPU-time and higher power efficiency in average scenarios, while maintaining its high performance in the worst case.
 
 
 # Summary. An optional shortened abstract.
@@ -50,8 +54,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'vmsh.pdf'
-url_code: 'https://github.com/mic92/vmsh'
+url_pdf: 'batching.pdf'
+url_code: 'https://github.com/pogobanane/vpp-testing'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
