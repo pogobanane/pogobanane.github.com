@@ -69,7 +69,7 @@ education:
     summary: |
       Thesis: Building lightweight VMs for Function as a Service
 
-      Artifact: Container-like debuggability for minimal lambda-function VMs [λ🏴‍☠️ lambda-pirate](https://github.com/pogobanane/lambda-pirate) (see also [Vmsh [EuroSys'22]](/#papers))
+      Artifact: Container-like debuggability for minimal lambda-function VMs: <a href="https://github.com/pogobanane/lambda-pirate">λ🏴‍☠️ lambda-pirate</a> (see also <a href="/#papers">Vmsh [EuroSys'22]</a>)
     #   GPA: 3.8/4.0
 
     #   Courses included:
@@ -83,7 +83,7 @@ education:
     summary: |
       Thesis: Performance analysis of the VPP software router
 
-      Artifact: [Adaptive batching [NetSoft'21]](/#papers)
+      Artifact: <a href="/#papers">Adaptive batching [NetSoft'21]</a>
     #   GPA: 3.4/4.0
     #
     #   Courses included:
@@ -107,7 +107,7 @@ work:
     date_start: 2021-09-01
     date_end: 2021-10-31
     summary: |
-      - Contributing to [Vmsh [EuroSys'22]](/#papers)
+      - Contributing to <a href="/#papers">Vmsh [EuroSys'22]</a>
       - Virtual device development for KVM
   - position: Full stack developer and consultant
     company_name: Moonlight GmbH & Co. KG
