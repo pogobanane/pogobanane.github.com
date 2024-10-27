@@ -52,9 +52,11 @@ interests:
   - Virtual machines (e.g. KVM)
   - Networking
   - Drivers/device virtualization
+  - NixOS
+  # - 'NixOS <img src="media/icons/NixOS_logo.svg" style="height: 1.2em; display: inline"/>'
 
 education:
-  - area: Dr. rer. nat. Informatics (ongoing, PhD)
+  - area: "Ongoining: Dr. rer. nat. Informatics (PhD)"
     institution: Technical University Munich
     date_start: 2020-12-01
     date_end: ''
@@ -193,5 +195,6 @@ languages:
 
 ## About Me
 
-Peter Okelmann is a PhD candidate at [dos.cit.tum.de](https://dos.cit.tum.de).
+Peter Okelmann is a PhD candidate with the [DOS](https://dos.cit.tum.de) group at Technical University Munich.
 His research interests include virtualization with containers or virtual machines, and often their intersection with networking.
+Aside from his research, he contributes to [NixOS](https://nixos.org) as a maintainer.
