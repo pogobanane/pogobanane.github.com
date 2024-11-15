@@ -27,8 +27,8 @@ doi: '10.1145/3698038.3698518'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *SoCC'25, ACM Symposium on Cloud Computing*
-publication_short: In *SoCC'25*
+publication: In *SoCC'24, ACM Symposium on Cloud Computing*
+publication_short: In *SoCC'24*
 
 abstract: |
   Unikernels specialize operating systems by tailoring the kernel for a specific application at compile time.
