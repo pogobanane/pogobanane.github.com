@@ -49,10 +49,10 @@ profiles:
     url: https://dblp.org/pid/298/4088.html
 
 interests:
-  - Virtual machines (e.g. KVM)
+  - (Confidential) Virtual Machines
   - Networking
-  - Drivers/device virtualization
-  - NixOS
+  - IO device virtualization
+  - Functional system definitions
   # - 'NixOS <img src="media/icons/NixOS_logo.svg" style="height: 1.2em; display: inline"/>'
 
 education:
