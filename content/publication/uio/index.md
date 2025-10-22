@@ -57,7 +57,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'batching.pdf'
-url_code: 'https://github.com/tum-DSE/uio'
+url_code: 'https://github.com/TUM-DSE/uio'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
