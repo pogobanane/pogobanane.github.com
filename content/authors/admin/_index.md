@@ -100,6 +100,16 @@ work:
     # summary: |
     #   - Contributing to [Vmsh [EuroSys'22]](/#papers)
     #   - Virtual device development for KVM
+  - position: Research Internship
+    company_name: Nokia Bell Labs
+    company_url: https://www.nokia.com/bell-labs/
+    company_logo: ''
+    date_start: 2025-06-15
+    date_end: 2025-10-15
+    summary: |
+      - Software and Data Systems Research Lab
+      - Advised by <a href="https://iakkus.github.io/">Istemi Ekin Akkus</a>, <a href="https://www.ruichuan.org/">Riuchuan Chen</a>, and <a href="https://www.nokia.com/people/ivica-rimac/">Ivica Rimac</a>
+      - Topic: Closing the performance gap of Confidential Virtual Machines for Virtual Network Functions
   - position: Student Assistant (HiWi)
     company_name: Technical University Munich
     company_url: ''
