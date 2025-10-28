@@ -217,3 +217,6 @@ languages:
 Peter Okelmann is a PhD candidate with the [Systems Research Group](https://dos.cit.tum.de) at Technical University Munich.
 His research interests include virtualization with containers or virtual machines, often at their intersection with networking.
 Aside from his research, he sometimes contributes to [NixOS](https://nixos.org) as a maintainer.
+
+In the past, he interned at [Nokia Bell Labs](https://www.nokia.com/bell-labs/), advised by [Istemi Ekin Akkus](https://iakkus.github.io/) and [Riuchuan Chen](https://www.ruichuan.org/), where he addressed the I/O performance gap imposed by hardware confidentiality onto virtual machines.
+
