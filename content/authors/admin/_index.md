@@ -58,14 +58,14 @@ interests:
 education:
   - area: "Ongoing: Dr. rer. nat. Informatics (PhD)"
     institution: Technical University Munich
-    date_start: 2020-12-01
+    date_start: 2022-03-01
     date_end: ''
     # summary: |
     #   Thesis: Building lightweight VMs for Function as a Service
   - area: MSc Informatics
     institution: Technical University Munich
-    date_start: 2020-03-15
-    date_end: 2022-03-15
+    date_start: 2020-04-01
+    date_end: 2022-02-01
     summary: |
       Thesis: Building lightweight VMs for Function as a Service
 
@@ -108,7 +108,7 @@ work:
     date_end: 2025-10-15
     summary: |
       - Software and Data Systems Research Lab
-      - Advised by <a href="https://iakkus.github.io/">Istemi Ekin Akkus</a>, <a href="https://www.ruichuan.org/">Riuchuan Chen</a>, and <a href="https://www.nokia.com/people/ivica-rimac/">Ivica Rimac</a>
+      - Advised by <a href="https://iakkus.github.io/">Istemi Ekin Akkus</a>, <a href="https://www.ruichuan.org/">Ruichuan Chen</a>, and <a href="https://www.nokia.com/people/ivica-rimac/">Ivica Rimac</a>
       - Topic: Closing the performance gap of Confidential Virtual Machines for Virtual Network Functions
   - position: Student Assistant (HiWi)
     company_name: Technical University Munich
@@ -220,5 +220,5 @@ I am a PhD candidate with the [Systems Research Group](https://dos.cit.tum.de) a
 My research interests include virtualization with containers or virtual machines, often at their intersection with networking.
 Aside from my research, I sometimes contribute to [NixOS](https://nixos.org) as a maintainer.
 
-In the past, I interned at [Nokia Bell Labs](https://www.nokia.com/bell-labs/), advised by [Istemi Ekin Akkus](https://iakkus.github.io/) and [Riuchuan Chen](https://www.ruichuan.org/), where I addressed the I/O performance gap imposed by hardware confidentiality onto virtual machines.
+In the past, I interned at [Nokia Bell Labs](https://www.nokia.com/bell-labs/), advised by [Istemi Ekin Akkus](https://iakkus.github.io/) and [Ruichuan Chen](https://www.ruichuan.org/), where I addressed the I/O performance gap imposed by hardware confidentiality onto virtual machines.
 
