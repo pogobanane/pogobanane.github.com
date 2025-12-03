@@ -59,7 +59,7 @@ url_code: 'https://github.com/TUM-DSE/morphos'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
-# url_slides: 'slides.pdf'
+url_slides: 'slides.pdf'
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_video: 'https://youtube.com'
 
